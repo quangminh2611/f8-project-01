@@ -608,6 +608,10 @@ footer .copyright {
     color: #C2C2C2;
 }
 
+footer .media-icon-link {
+    margin-right: 16px;
+}
+
 footer .media-icon-link:hover {
     text-decoration: none;
 }
